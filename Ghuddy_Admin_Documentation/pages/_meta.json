@@ -1,0 +1,17 @@
+{
+  "index": "Introduction",
+  "Tour Package Panel": "Tour Package Panel",
+  "Accommodations type": "Accommodations type",
+  "Accommodations Add": "Accommodations Add",
+  "another": "Another Page",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://twitter.com/shuding_",
+    "newWindow": true
+  }
+}
